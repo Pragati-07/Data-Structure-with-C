@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1596199850 source:c:\users\hp\documents\pragati\github projects\data structure with c\searching algorithms\jump_search\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

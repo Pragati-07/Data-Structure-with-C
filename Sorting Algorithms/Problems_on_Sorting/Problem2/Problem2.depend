@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1597320177 source:c:\users\hp\documents\pragati\github projects\data-structure-with-c\sorting algorithms\problems_on_sorting\problem2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

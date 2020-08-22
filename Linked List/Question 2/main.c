@@ -47,13 +47,10 @@ void traverse()
 }
 int main()
 {
-    int n,data;
-    printf("Enter number of nodes in the list : ");
-    scanf("%d",&n);
-    printf("Enter data : \n");
-    while(n--)
+    int data;
+    printf("Enter data (Press CTRL+Z to Stop) : \n");
+    while(scanf("%d",&data)>0)
     {
-        scanf("%d",&data);
         insert(data);
     }
     traverse();
